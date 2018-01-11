@@ -1,2 +1,2 @@
 # Plugin-Newsletter
-Réalisation d'un plugin de newsletter 
+Réalisation d'un plugin de newsletter en POO 
